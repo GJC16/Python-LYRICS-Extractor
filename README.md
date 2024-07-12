@@ -83,3 +83,7 @@ root.mainloop()
 
 ## Conclusion
 This Lyrics Finder application provides a user-friendly interface for accessing song lyrics through the Genius API. You can enhance this application by adding features like saving lyrics, searching by album, or improving error handling.
+
+## Sample Output
+<br>
+<img src="https://github.com/user-attachments/assets/fb2adf74-da84-4e9e-8093-e34e40d86042" alt="ARDUINO UNO"  width="50%">
